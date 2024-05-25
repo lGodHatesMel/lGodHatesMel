@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm GodHatesMe aka Buggz</h1>
-<h3 align="center">I just trying to learn C# & Python, I also love Pokemon :)</h3>
+<h3 align="center">I just trying to learn C# & Python, lua, I also love Pokemon :)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lgodhatesmel" alt="lgodhatesmel" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/lgodhatesmel" target="blank"><img src="https://img.shields.io/twitter/follow/lgodhatesmel?logo=twitter&style=for-the-badge" alt="lgodhatesmel" /></a> </p>
 
-- 🌱 I’m currently learning Python
 - 🔭 I’m currently working on [My Discord Bot](https://github.com/lgodhatesmel/GHM-Discord-Bot)
 - 😄 Pronouns: **What?**
 - ⚡ Fun fact **So uhmm are you going to tell me what the fun fact is?**
