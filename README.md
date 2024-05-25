@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/lgodhatesmel" target="blank"><img src="https://img.shields.io/twitter/follow/lgodhatesmel?logo=twitter&style=for-the-badge" alt="lgodhatesmel" /></a> </p>
 
-- 🔭 I’m currently working on [My Discord Bot](https://github.com/lgodhatesmel/GHM-Discord-Bot)
+<!-- - 🔭 I’m currently working on [My Discord Bot](https://github.com/lgodhatesmel/GHM-Discord-Bot)-->
 - 😄 Pronouns: **What?**
 - ⚡ Fun fact **So uhmm are you going to tell me what the fun fact is?**
 
