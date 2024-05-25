@@ -1,14 +1,4 @@
-## Hi there 👋
-
-<!--
-**lGodHatesMel/lGodHatesMel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m 
-
-
-# Hi there, I'm GodHatesMd 👋
+## Hi there, Im GodHatesMe
 
 ## About Me
 - 🔭 I’m currently working on My Discord Bot fir my server
