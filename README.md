@@ -1,4 +1,4 @@
-## Hi there, Im GodHatesMe
+## Hi there, Im GodHatesMe Aka Buggz
 
 ## About Me
 - 🔭 I’m currently working on My Discord Bot fir my server
