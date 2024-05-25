@@ -5,12 +5,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m 
+
+
+# Hi there, I'm GodHatesMd 👋
+
+## About Me
+- 🔭 I’m currently working on My Discord Bot fir my server
+- 🌱 I’m currently learning Python
+- 😄 Pronouns: What?
+- ⚡ Fun fact: Well are you ginna tell me tge fun fact or not?
+
+## My GitHub Stats
+!Your GitHub stats
+
+## Languages and Tools:
+!Top Langs
