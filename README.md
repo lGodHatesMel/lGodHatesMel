@@ -7,7 +7,8 @@
 - ⚡ Fun fact: Well are you ginna tell me tge fun fact or not?
 
 ## My GitHub Stats
-!Your GitHub stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api)
+
 
 ## Languages and Tools:
 !Top Langs
