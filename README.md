@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GodHatesMe aka Buggz</h1>
-<h3 align="center">I just trying to learn C#, Python, and Lua. Oh I also love Pokemon :)</h3>
+<h3 align="center">I just trying to learn C#, Python, and Lua. Oh I also love Pokemon LOL:)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lgodhatesmel" alt="lgodhatesmel" /></a> </p>
 
