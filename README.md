@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [My Discord Bot](https://github.com/lgodhatesmel/GHM-Discord-Bot-V2)
 
 -  😄 Pronouns: *What?!?*
-- ⚡ Fun fact: **So uhmm are you going to tell me what the fun fact is?ikkk**
+- ⚡ Fun fact: **So uhmm are you going to tell me what the fun fact is?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
