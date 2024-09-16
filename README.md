@@ -3,9 +3,6 @@
 
 - 🔭 I’m currently working on a discord bot using [Discord.py]([https://github.com/lgodhatesmel/GHM-Discord-Bot-V2](https://github.com/Rapptz/discord.py))
 
--  😄 Pronouns: *What?!?*
-- ⚡ Fun fact: **So uhmm are you going to tell me what the fun fact is?**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lgodhatesmel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lgodhatesmel" height="30" width="40" /></a>
