@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GodHatesMe aka Buggz</h1>
 <h3 align=“center”>In my spare time, I’m diving into C#, Python, and Lua while trying to learn on my own. :)</h3>
 
-- 🔭 I’m currently working on a discord bot using [Discord.py]([https://github.com/lgodhatesmel/GHM-Discord-Bot-V2](https://github.com/Rapptz/discord.py))
+- 🔭 I’m currently working on a discord bot using [Discord.py](https://github.com/Rapptz/discord.py)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
