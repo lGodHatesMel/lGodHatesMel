@@ -34,12 +34,10 @@
 
 ### 🏆 GitHub Stats
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lgodhatesmel&theme=dracula" alt="trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=lgodhatesmel&theme=dracula&no-frame=true" alt="trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lgodhatesmel&show_icons=true&theme=dracula" alt="stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lgodhatesmel&theme=dracula" alt="streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lgodhatesmel&show_icons=true&theme=dracula" height="170" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lgodhatesmel&theme=dracula" height="170" alt="streak" />
 </p>
