@@ -1,41 +1,45 @@
-<h1 align="center">Hi 👋, I'm GodHatesMe aka Buggz</h1>
-<h3 align=“center”>In my spare time, I’m diving into C#, Python, and Lua while trying to learn on my own. :)</h3>
+<h1 align="center">Hi 👋, I'm GodHatesMe (Buggz)</h1>
 
-- 🔭 I’m currently working on a discord bot using [Discord.py](https://github.com/Rapptz/discord.py)
+<p align="center">
+  <strong>Self-taught developer diving into C#, Python, and Lua</strong>
+</p>
 
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lgodhatesmel&color=blueviolet&style=flat-square" alt="Views" />
+</p>
+
+---
+
+### 🔭 About Me
+- ⚡ **Currently working on:** A custom Discord bot using [Discord.py](https://github.com/Rapptz/discord.py).
+- 🌱 **Learning journey:** Exploring game logic with Lua and backend systems with C#.
+- 💬 **Ask me about:** Python scripting or why I chose my username!
+
+### 🛠 Languages & Tools
 <p align="left">
-  <a href="https://twitter.com/lgodhatesmel" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lgodhatesmel" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@lgodhatesmel" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lgodhatesmel" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/SrREp2BbkS" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/SrREp2BbkS" height="30" width="40" />
-  </a>
-  <a href="https://www.twitch.tv/lgodhatesmel" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="lgodhatesmel" height="30" width="40" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+</p>
+
+### 🤝 Connect with me
+<p align="left">
+<a href="https://twitter.com/lgodhatesmel" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" height="25" /></a>
+<a href="https://www.youtube.com/@lgodhatesmel" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" height="25" /></a>
+<a href="https://discord.gg/SrREp2BbkS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" height="25" /></a>
+<a href="https://www.twitch.tv/lgodhatesmel" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white" height="25" /></a>
+</p>
+
+---
+
+### 🏆 GitHub Stats
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lgodhatesmel&theme=dracula" alt="trophies" />
   </a>
 </p>
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://commons.wikimedia.org/wiki/File:Lua-Logo.svg" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lgodhatesmel&show_icons=true&theme=dracula" alt="stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lgodhatesmel&theme=dracula" alt="streak" height="170" />
 </p>
-
-<h3 align="left">🏆 GitHub Trophies & Stats:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lgodhatesmel" alt="lgodhatesmel" /></a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lgodhatesmel&show_icons=true&locale=en" alt="lgodhatesmel" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lgodhatesmel&" alt="lgodhatesmel" /></p>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=lgodhatesmel&color=blueviolet">
