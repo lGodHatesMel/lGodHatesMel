@@ -37,7 +37,7 @@
 ### 🏆 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lgodhatesmel&theme=dracula&no-bg=true&no-frame=true" alt="lgodhatesmel" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lgodhatesmel&theme=dracula&bg_color=1a1b27&hide_border=true" alt="lgodhatesmel activity graph" />
 </p>
 
 <div align="center">
