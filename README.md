@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm GodHatesMe (Buggz)</h1>
 
 <p align="center">
-  <strong>Self-taught developer diving into C#, Python, and Lua</strong>
+  <strong>Self-taught developer diving into C# & Python</strong>
+  <br>
+  🌐 <a href="https://godhatesme.xyz" target="_blank"><strong>godhatesme.xyz</strong></a>
 </p>
 
 <p align="center">
@@ -12,8 +14,7 @@
 
 ### 🔭 About Me
 - ⚡ **Currently working on:** A custom Discord bot using [Discord.py](https://github.com/Rapptz/discord.py).
-- 🌱 **Learning journey:** Exploring game logic with Lua and backend systems with C#.
-- 💬 **Ask me about:** Python scripting or why I chose my username!
+- 🌱 **Learning journey:** Exploring game logic and backend systems with C#.
 
 ### 🛠 Languages & Tools
 <p align="left">
@@ -24,6 +25,7 @@
 
 ### 🤝 Connect with me
 <p align="left">
+<a href="https://godhatesme.xyz" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=icloud&logoColor=white" height="25" /></a>
 <a href="https://twitter.com/lgodhatesmel" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" height="25" /></a>
 <a href="https://www.youtube.com/@lgodhatesmel" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" height="25" /></a>
 <a href="https://discord.gg/SrREp2BbkS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" height="25" /></a>
@@ -32,12 +34,26 @@
 
 ---
 
-### 🏆 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lgodhatesmel&theme=dracula&no-frame=true" alt="trophies" />
-</p>
+### 🏆 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lgodhatesmel&show_icons=true&theme=dracula" height="170" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lgodhatesmel&theme=dracula" height="170" alt="streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lgodhatesmel&theme=dracula&no-frame=false&margin-w=15" alt="lgodhatesmel trophies" />
 </p>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=lgodhatesmel&show_icons=true&theme=dracula" height="170" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgodhatesmel&layout=compact&theme=dracula" height="170" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=lgodhatesmel&theme=dracula" height="170" />
+      </td>
+    </tr>
+  </table>
+</div>
