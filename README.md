@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GodHatesMe (Buggz)</h1>
 
 <p align="center">
-  <strong>Self-taught developer diving into C# & Python</strong>
+  <strong>Self-taught developer diving into C# & Python, lua, React</strong>
   <br>
   🌐 <a href="https://godhatesme.xyz" target="_blank"><strong>godhatesme.xyz</strong></a>
 </p>
