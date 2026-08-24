@@ -13,7 +13,6 @@
 ---
 
 ### 🔭 About Me
-- ⚡ **Currently working on:** A custom Discord bot using [Discord.py](https://github.com/Rapptz/discord.py).
 - 🌱 **Learning journey:** Exploring game logic and backend systems with C#.
 
 ### 🛠 Languages & Tools
